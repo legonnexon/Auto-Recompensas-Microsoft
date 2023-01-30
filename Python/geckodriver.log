@@ -1,0 +1,1162 @@
+1673138976988	geckodriver	INFO	Listening on 127.0.0.1:53556
+1673138991746	geckodriver	INFO	Listening on 127.0.0.1:53571
+1673139244851	geckodriver	INFO	Listening on 127.0.0.1:53641
+1673140328571	geckodriver	INFO	Listening on 127.0.0.1:53923
+1673140334500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileMsYSnQ"
+1673140342233	Marionette	INFO	Marionette enabled
+1673140342402	Marionette	INFO	Listening on port 53948
+Read port: 53948
+Read port: 53948
+WebDriver BiDi listening on ws://127.0.0.1:53924
+1673140345719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileMsYSnQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53924/devtools/browser/f02af581-b039-442b-acf7-6765483c1d3a
+1673140667129	geckodriver	INFO	Listening on 127.0.0.1:54014
+1673140670050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileO87ZlB"
+1673140673955	Marionette	INFO	Marionette enabled
+1673140673991	Marionette	INFO	Listening on port 54024
+Read port: 54024
+WebDriver BiDi listening on ws://127.0.0.1:54015
+1673140674970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileO87ZlB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54015/devtools/browser/1d9c6570-39ec-4796-9042-1b330e5a4915
+1673140993188	geckodriver	INFO	Listening on 127.0.0.1:54188
+1673140996215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilevblLSX"
+1673140997801	Marionette	INFO	Marionette enabled
+1673140997819	Marionette	INFO	Listening on port 54198
+Read port: 54198
+WebDriver BiDi listening on ws://127.0.0.1:54189
+1673140998596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilevblLSX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54189/devtools/browser/da657f77-da5f-4a11-aa3f-d0f127d7a1ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673141042089	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673141048691	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673141356491	geckodriver	INFO	Listening on 127.0.0.1:54386
+1673141359762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileD1JSmM"
+1673141361752	Marionette	INFO	Marionette enabled
+1673141361774	Marionette	INFO	Listening on port 54397
+Read port: 54397
+WebDriver BiDi listening on ws://127.0.0.1:54387
+1673141362571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileD1JSmM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54387/devtools/browser/e4691157-d897-4f71-a25d-0a916a2bbf7e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673141413528	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673141560791	geckodriver	INFO	Listening on 127.0.0.1:54455
+1673141563658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54456" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilezowT6c"
+1673141565281	Marionette	INFO	Marionette enabled
+1673141565301	Marionette	INFO	Listening on port 54465
+Read port: 54465
+WebDriver BiDi listening on ws://127.0.0.1:54456
+1673141566118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilezowT6c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54456/devtools/browser/870e4926-0a2e-4dc7-aad2-9cb1ba43ad5e
+1673141578988	geckodriver	INFO	Listening on 127.0.0.1:54479
+1673141582001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofile3lcO90"
+1673141583670	Marionette	INFO	Marionette enabled
+1673141583700	Marionette	INFO	Listening on port 54501
+Read port: 54501
+WebDriver BiDi listening on ws://127.0.0.1:54480
+1673141584537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofile3lcO90\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54480/devtools/browser/df8861cb-e74d-477c-b14d-32036854e3cf
+1673145732258	geckodriver	INFO	Listening on 127.0.0.1:56674
+1673145735915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileTp2YAD"
+1673145741559	Marionette	INFO	Marionette enabled
+1673145741708	Marionette	INFO	Listening on port 56684
+Read port: 56684
+Read port: 56684
+WebDriver BiDi listening on ws://127.0.0.1:56675
+1673145744080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673145804031	geckodriver	INFO	Listening on 127.0.0.1:56713
+1673145806909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofile9PhEyW"
+1673145808581	Marionette	INFO	Marionette enabled
+1673145808605	Marionette	INFO	Listening on port 56723
+Read port: 56723
+WebDriver BiDi listening on ws://127.0.0.1:56714
+1673145809670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofile9PhEyW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56714/devtools/browser/df8ef04c-c72f-4ff9-b65c-fb0a6e53d713
+1673145868406	Marionette	INFO	Stopped listening on port 56723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1673145918128	geckodriver	INFO	Listening on 127.0.0.1:56764
+1673145921166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilegQTrgi"
+1673145923729	Marionette	INFO	Marionette enabled
+1673145923755	Marionette	INFO	Listening on port 56774
+Read port: 56774
+WebDriver BiDi listening on ws://127.0.0.1:56765
+1673145924695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilegQTrgi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56765/devtools/browser/8005c323-d61b-490d-bf86-def58ceb2a23
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673145970274	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673145975660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673146101425	geckodriver	INFO	Listening on 127.0.0.1:56859
+1673146104384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56860" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilerwx5bP"
+1673146106433	Marionette	INFO	Marionette enabled
+1673146106454	Marionette	INFO	Listening on port 56869
+Read port: 56869
+WebDriver BiDi listening on ws://127.0.0.1:56860
+1673146107201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilerwx5bP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56860/devtools/browser/6f620fa2-e33f-4322-b752-192db3bdbca3
+1673146188094	Marionette	INFO	Stopped listening on port 56869
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+e" "--marionette" "--remote-debugging-port" "56908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileDjBM4w"
+1673146163503	Marionette	INFO	Marionette enabled
+1673146163528	Marionette	INFO	Listening on port 56919
+Read port: 56919
+WebDriver BiDi listening on ws://127.0.0.1:56908
+1673146164306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileDjBM4w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56908/devtools/browser/d8513494-660f-46f3-9d64-e30d4ff9a636
+1673146187031	Marionette	INFO	Stopped listening on port 56919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673230302175	geckodriver	INFO	Listening on 127.0.0.1:61594
+1673230305277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilewJo0qs"
+1673230310837	Marionette	INFO	Marionette enabled
+1673230310909	Marionette	INFO	Listening on port 61604
+Read port: 61604
+Read port: 61604
+WebDriver BiDi listening on ws://127.0.0.1:61595
+1673230313305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilewJo0qs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61595/devtools/browser/3c54d358-6970-48ef-b67e-1cb4dddd36ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230368276	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230376188	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230379496	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230385491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230391718	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230398459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230403758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230409705	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230416310	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230422356	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230427923	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230434313	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673230440794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673231273071	geckodriver	INFO	Listening on 127.0.0.1:62052
+1673231276399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileUFxx66"
+1673231281512	Marionette	INFO	Marionette enabled
+1673231281570	Marionette	INFO	Listening on port 62062
+Read port: 62062
+WebDriver BiDi listening on ws://127.0.0.1:62053
+Read port: 62062
+1673231285800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileUFxx66\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62053/devtools/browser/96cb06ad-b3f5-49ae-9ad0-58701701cf36
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231337495	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231347486	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231353709	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231360527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231366450	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231372503	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231622826	geckodriver	INFO	Listening on 127.0.0.1:62188
+1673231625787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilewJXpFy"
+1673231627692	Marionette	INFO	Marionette enabled
+1673231627713	Marionette	INFO	Listening on port 62198
+Read port: 62198
+WebDriver BiDi listening on ws://127.0.0.1:62189
+1673231628506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilewJXpFy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62189/devtools/browser/31aa28a6-8dd7-4955-bc80-db63ab30a677
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673231672865	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231678695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231684519	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231694029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673231767724	geckodriver	INFO	Listening on 127.0.0.1:62299
+1673231770725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileZZLyCi"
+1673231773976	Marionette	INFO	Marionette enabled
+1673231773997	Marionette	INFO	Listening on port 62309
+Read port: 62309
+WebDriver BiDi listening on ws://127.0.0.1:62300
+1673231774792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileZZLyCi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62300/devtools/browser/966b89d1-1921-48eb-b023-70257645e97d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231832892	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231842298	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673231847473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673328315313	geckodriver	INFO	Listening on 127.0.0.1:54553
+1673328318766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilelVMZaZ"
+1673328324468	Marionette	INFO	Marionette enabled
+1673328324585	Marionette	INFO	Listening on port 54563
+Read port: 54563
+Read port: 54563
+WebDriver BiDi listening on ws://127.0.0.1:54554
+1673328328690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilelVMZaZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54554/devtools/browser/8a2159c5-baf7-40b4-b01f-60cdc680bb8a
+1673328999473	geckodriver	INFO	Listening on 127.0.0.1:54824
+1673329002482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilehPE3S5"
+1673329005810	Marionette	INFO	Marionette enabled
+1673329005846	Marionette	INFO	Listening on port 54834
+Read port: 54834
+WebDriver BiDi listening on ws://127.0.0.1:54825
+1673329006656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilehPE3S5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54825/devtools/browser/5998f7d0-4c9e-460f-8571-1fa287a814f9
+1673329281355	geckodriver	INFO	Listening on 127.0.0.1:54956
+1673329284352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileIeo8Em"
+1673329287736	Marionette	INFO	Marionette enabled
+1673329287759	Marionette	INFO	Listening on port 54966
+Read port: 54966
+WebDriver BiDi listening on ws://127.0.0.1:54957
+1673329288586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileIeo8Em\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54957/devtools/browser/6fbf0ee5-1b17-4d21-8e2b-1565609391f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329380666	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673329545565	geckodriver	INFO	Listening on 127.0.0.1:55031
+1673329548509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55032" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileKa75v8"
+1673329552503	Marionette	INFO	Marionette enabled
+1673329552534	Marionette	INFO	Listening on port 55041
+Read port: 55041
+WebDriver BiDi listening on ws://127.0.0.1:55032
+1673329553388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileKa75v8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55032/devtools/browser/81f1f6d1-4b7b-4ff6-97ff-b882e777b624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673329753317	geckodriver	INFO	Listening on 127.0.0.1:55164
+1673329756238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilemWwArT"
+1673329759861	Marionette	INFO	Marionette enabled
+1673329759916	Marionette	INFO	Listening on port 55174
+Read port: 55174
+WebDriver BiDi listening on ws://127.0.0.1:55165
+1673329761181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilemWwArT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55165/devtools/browser/d19b8283-91e0-4c5b-9986-18c7c11c456d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673329827221	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329840628	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329848078	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329853744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+JavaScript warning: https://fpt.microsoft.com/tags?session_id=351359d6-b660-4769-9e3d-e37b87ca9797, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329879463	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329885347	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673329980750	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329984061	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673329996216	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330002012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330009658	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330032709	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330039325	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330093852	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330144884	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330151949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673330219037	geckodriver	INFO	Listening on 127.0.0.1:55407
+1673330221945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileP3gaA4"
+1673330225333	Marionette	INFO	Marionette enabled
+1673330225354	Marionette	INFO	Listening on port 55417
+Read port: 55417
+WebDriver BiDi listening on ws://127.0.0.1:55408
+1673330226196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileP3gaA4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55408/devtools/browser/c42a85af-9032-4d92-8324-8d1810709783
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330283124	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330291306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330295355	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330314490	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330322441	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330329504	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330336695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330342938	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450949"
+console.error: "Unable to find target with innerWindowId:6442450949"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330378510	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330397018	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330421228	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330433887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673330513817	geckodriver	INFO	Listening on 127.0.0.1:55501
+1673330516772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilew4GY70"
+1673330519096	Marionette	INFO	Marionette enabled
+1673330519118	Marionette	INFO	Listening on port 55511
+Read port: 55511
+WebDriver BiDi listening on ws://127.0.0.1:55502
+1673330519899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilew4GY70\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55502/devtools/browser/78b17f6a-324c-457f-9a57-0f1ed49f17cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673330738719	Marionette	INFO	Stopped listening on port 55511
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileW2QH4P"
+1673330672983	Marionette	INFO	Marionette enabled
+1673330673008	Marionette	INFO	Listening on port 55612
+Read port: 55612
+WebDriver BiDi listening on ws://127.0.0.1:55603
+1673330673659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileW2QH4P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55603/devtools/browser/5135fba5-d58d-4e30-b522-f09cde576c41
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673330751366	Marionette	INFO	Stopped listening on port 55612
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673330768204	geckodriver	INFO	Listening on 127.0.0.1:55661
+1673330771150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilev4wiUX"
+1673330774265	Marionette	INFO	Marionette enabled
+1673330774288	Marionette	INFO	Listening on port 55671
+Read port: 55671
+WebDriver BiDi listening on ws://127.0.0.1:55662
+1673330775128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilev4wiUX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55662/devtools/browser/e279f7f3-0d21-4df3-8acc-ce7e55f28b2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330820791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.error: "Unable to find target with innerWindowId:4294967301"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673330889431	Marionette	INFO	Stopped listening on port 55671
+1673330899874	geckodriver	INFO	Listening on 127.0.0.1:55741
+1673330903004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofile5IVWcb"
+1673330904622	Marionette	INFO	Marionette enabled
+1673330904642	Marionette	INFO	Listening on port 55751
+Read port: 55751
+WebDriver BiDi listening on ws://127.0.0.1:55742
+1673330905490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofile5IVWcb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55742/devtools/browser/ad4ec735-32bb-4e16-bfa7-b57f9a8b94a4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673330950508	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-prconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "FallinJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673331085079	Marionette	INFO	Stopped listening on port 55751
+1673331095350	geckodriver	INFO	Listening on 127.0.0.1:55890
+1673331098274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilefcGWW5"
+1673331101491	Marionette	INFO	Marionette enabled
+1673331101520	Marionette	INFO	Listening on port 55900
+Read port: 55900
+WebDriver BiDi listening on ws://127.0.0.1:55891
+1673331102345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilefcGWW5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55891/devtools/browser/b07219d1-f1cd-4187-a102-00d102233fe4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673331148112	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673331152692	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673331155733	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673331236447	Marionette	INFO	Stopped listening on port 55900
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10696, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1673332469838	geckodriver	INFO	Listening on 127.0.0.1:56024
+1673332472806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileHa1VdA"
+1673332474424	Marionette	INFO	Marionette enabled
+1673332474447	Marionette	INFO	Listening on port 56034
+Read port: 56034
+WebDriver BiDi listening on ws://127.0.0.1:56025
+1673332475334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileHa1VdA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56025/devtools/browser/b27b99d6-00d2-448a-afa1-43a1b840df7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+JavaScript error: https://content.lifecycle.office.net/dime/v1/dime.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1673397972332	geckodriver	INFO	Listening on 127.0.0.1:62169
+1673397975591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilevPRTEM"
+1673397981276	Marionette	INFO	Marionette enabled
+1673397981298	Marionette	INFO	Listening on port 62188
+Read port: 62188
+WebDriver BiDi listening on ws://127.0.0.1:62170
+Read port: 62188
+1673397983015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilevPRTEM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62170/devtools/browser/7be782a7-fd60-4327-9ee5-16dea2dd75ae
+1673398354700	geckodriver	INFO	Listening on 127.0.0.1:62271
+1673398357802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62272" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilec4uHp6"
+1673398366752	Marionette	INFO	Marionette enabled
+1673398366803	Marionette	INFO	Listening on port 62284
+Read port: 62284
+Read port: 62284
+WebDriver BiDi listening on ws://127.0.0.1:62272
+1673398371417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673516707617	geckodriver	INFO	Listening on 127.0.0.1:51439
+1673516711874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofiled6m513"
+1673516730134	Marionette	INFO	Marionette enabled
+1673516730232	Marionette	INFO	Listening on port 51470
+Read port: 51470
+Read port: 51470
+Read port: 51470
+WebDriver BiDi listening on ws://127.0.0.1:51440
+Read port: 51470
+1673516738156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673517205177	geckodriver	INFO	Listening on 127.0.0.1:51577
+1673517208114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileDeGJUc"
+1673517213459	Marionette	INFO	Marionette enabled
+1673517213528	Marionette	INFO	Listening on port 51587
+Read port: 51587
+Read port: 51587
+WebDriver BiDi listening on ws://127.0.0.1:51578
+1673517215533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileDeGJUc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51578/devtools/browser/e815cb32-6e92-42b5-9e2a-e36432f591e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673517276609	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673517282598	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673517287193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673517293694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673517371288	Marionette	INFO	Stopped listening on port 51587
+1673556226728	geckodriver	INFO	Listening on 127.0.0.1:53219
+1673556230204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilenwj7Tc"
+1673556235343	Marionette	INFO	Marionette enabled
+1673556235448	Marionette	INFO	Listening on port 53229
+Read port: 53229
+WebDriver BiDi listening on ws://127.0.0.1:53220
+1673556237074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilenwj7Tc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53220/devtools/browser/d1c9077d-67ac-4c9e-829b-e921b273cb81
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673556297840	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673556302680	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673556309084	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673556391342	Marionette	INFO	Stopped listening on port 53229
+1673752771810	geckodriver	INFO	Listening on 127.0.0.1:52523
+1673753440059	geckodriver	INFO	Listening on 127.0.0.1:52770
+1673753443613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileE67Q0E"
+1673753449619	Marionette	INFO	Marionette enabled
+1673753449689	Marionette	INFO	Listening on port 52781
+Read port: 52781
+WebDriver BiDi listening on ws://127.0.0.1:52771
+Read port: 52781
+1673753452617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileE67Q0E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52771/devtools/browser/b175a5d2-6501-455c-bccb-0fc337ab6d5f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673753554080	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673753559332	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673753562811	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673753574814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673753577684	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673753584164	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673753591109	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673753638401	Marionette	INFO	Stopped listening on port 52781
+1673754239627	geckodriver	INFO	Listening on 127.0.0.1:53152
+1673754242552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilevbjiDL"
+1673754295063	geckodriver	INFO	Listening on 127.0.0.1:53172
+1673754297969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileWxXlmh"
+1673754300500	Marionette	INFO	Marionette enabled
+1673754300547	Marionette	INFO	Listening on port 53182
+Read port: 53182
+WebDriver BiDi listening on ws://127.0.0.1:53173
+Read port: 53182
+1673754304100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileWxXlmh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53173/devtools/browser/67d87115-a16a-42ff-8afe-3acf512b7ccb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673754364582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673754370586	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673754376985	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673754398635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673754442810	Marionette	INFO	Stopped listening on port 53182
+1673799045390	geckodriver	INFO	Listening on 127.0.0.1:54291
+1673799048574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileaqMUtP"
+1673799053581	Marionette	INFO	Marionette enabled
+1673799053634	Marionette	INFO	Listening on port 54301
+Read port: 54301
+WebDriver BiDi listening on ws://127.0.0.1:54292
+Read port: 54301
+1673799057503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileaqMUtP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54292/devtools/browser/c12afd42-4f94-46ba-8dc1-e1924eb8c44d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673799122515	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673799126408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673799137149	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673799163644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673799201898	Marionette	INFO	Stopped listening on port 54301
+1673896175264	geckodriver	INFO	Listening on 127.0.0.1:59152
+1673896178908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofiled8BDK8"
+1673896187622	Marionette	INFO	Marionette enabled
+1673896187692	Marionette	INFO	Listening on port 59165
+Read port: 59165
+WebDriver BiDi listening on ws://127.0.0.1:59153
+Read port: 59165
+1673896192497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofiled8BDK8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59153/devtools/browser/ac2b8bc4-c0ed-4253-9784-9dce273839d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673896289614	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673896295469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673896382798	Marionette	INFO	Stopped listening on port 59165
+1673896438553	geckodriver	INFO	Listening on 127.0.0.1:59267
+1673896441385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileW3AXXi"
+1673896455439	Marionette	INFO	Marionette enabled
+1673896455523	Marionette	INFO	Listening on port 59280
+Read port: 59280
+Read port: 59280
+Read port: 59280
+Read port: 59280
+Read port: 59280
+WebDriver BiDi listening on ws://127.0.0.1:59268
+Read port: 59280
+1673896472762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1673987704186	geckodriver	INFO	Listening on 127.0.0.1:61386
+1673987707503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileIgvFqN"
+1673988035022	geckodriver	INFO	Listening on 127.0.0.1:61495
+1673988039392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileQQ7nDl"
+1673988044696	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673988044737	Marionette	INFO	Listening on port 61503
+Read port: 61503
+Read port: 61503
+WebDriver BiDi listening on ws://127.0.0.1:61496
+1673988047826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileQQ7nDl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61496/devtools/browser/bf2c448e-5d82-4f37-aaf1-8608ed18ff57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673988113821	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1673988118785	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673988177756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673988180924	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673988191816	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1673988195637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673988209760	Marionette	INFO	Stopped listening on port 61503
+Dynamically enable window occlusion 1
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1a3f4433300","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3871,"stack":""}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 372))
+[GFX1]: Attempting to post to an invalid Compositor Thread
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1674087551488	geckodriver	INFO	Listening on 127.0.0.1:49455
+1674087554813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49456" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilexVk8ny"
+1674087566463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674087566665	Marionette	INFO	Listening on port 49466
+Read port: 49466
+Read port: 49466
+WebDriver BiDi listening on ws://127.0.0.1:49456
+Read port: 49466
+1674087576040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilexVk8ny\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49456/devtools/browser/0668c29d-6e40-4974-ad1f-9c4b6fa0f371
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674087680989	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674087718650	Marionette	INFO	Stopped listening on port 49466
+Dynamically enable window occlusion 1
+[Parent 11284, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+1674163234488	geckodriver	INFO	Listening on 127.0.0.1:54384
+1674163237545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilexihAza"
+1674163247663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674163247713	Marionette	INFO	Listening on port 54394
+Read port: 54394
+Read port: 54394
+WebDriver BiDi listening on ws://127.0.0.1:54385
+1674163252263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilexihAza\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54385/devtools/browser/d2f4cac3-1b96-4cbd-ad94-e8e34f2c2d1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163332767	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674163337828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163343423	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163346547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163357487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163360979	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163371852	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163375165	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163378418	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163403202	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674163409577	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674163409726	Marionette	INFO	Stopped listening on port 54394
+Dynamically enable window occlusion 1
+1674263668734	geckodriver	INFO	Listening on 127.0.0.1:60663
+1674263671857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileBk2A3f"
+1674263678549	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674263678582	Marionette	INFO	Listening on port 60671
+Read port: 60671
+Read port: 60671
+WebDriver BiDi listening on ws://127.0.0.1:60664
+1674263681085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileBk2A3f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60664/devtools/browser/83aaeabf-e4d8-43d5-b9f0-e13fcb218923
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263785553	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263791044	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263798520	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263802732	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263805808	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263813027	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263816585	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263819983	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263833943	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674263837033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674263837452	Marionette	INFO	Stopped listening on port 60671
+Dynamically enable window occlusion 1
+1674339097449	geckodriver	INFO	Listening on 127.0.0.1:63029
+1674339100511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilegbB7rv"
+1674339106227	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674339106302	Marionette	INFO	Listening on port 63037
+Read port: 63037
+Read port: 63037
+WebDriver BiDi listening on ws://127.0.0.1:63030
+1674339110683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilegbB7rv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63030/devtools/browser/62466a8d-91cf-4da3-ad0d-f3c03918d445
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339180678	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+1674339185286	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339196984	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339235635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339238920	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339245954	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339249068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339252946	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674339257891	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674339271807	Marionette	INFO	Stopped listening on port 63037
+Dynamically enable window occlusion 1
+1674407330044	geckodriver	INFO	Listening on 127.0.0.1:64998
+1674407333099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileCZDXeo"
+1674407339511	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674407339583	Marionette	INFO	Listening on port 65007
+Read port: 65007
+Read port: 65007
+WebDriver BiDi listening on ws://127.0.0.1:64999
+1674407341715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileCZDXeo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64999/devtools/browser/905539dc-3675-472a-863a-331fcdb2e243
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407406563	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674407413136	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407418589	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674407419128	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407424571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407430949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407434806	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407439175	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407447704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407455096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407465478	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674407486984	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674407487507	Marionette	INFO	Stopped listening on port 65007
+Dynamically enable window occlusion 1
+1674592002820	geckodriver	INFO	Listening on 127.0.0.1:60696
+1674592096197	geckodriver	INFO	Listening on 127.0.0.1:60724
+1674592184175	geckodriver	INFO	Listening on 127.0.0.1:60737
+1674592219316	geckodriver	INFO	Listening on 127.0.0.1:60753
+1674592222351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofile0cQq3w"
+1674592309045	geckodriver	INFO	Listening on 127.0.0.1:60776
+1674592311992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileP56VjY"
+1674592315325	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674592315395	Marionette	INFO	Listening on port 60784
+Read port: 60784
+Read port: 60784
+WebDriver BiDi listening on ws://127.0.0.1:60777
+1674592322009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1674592979113	geckodriver	INFO	Listening on 127.0.0.1:60978
+1674592982088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofileW1H75l"
+1674592983993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674592984013	Marionette	INFO	Listening on port 60986
+Read port: 60986
+WebDriver BiDi listening on ws://127.0.0.1:60979
+1674592984987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1674596680054	geckodriver	INFO	Listening on 127.0.0.1:61953
+1674596682988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilekuYxF9"
+1674596799966	geckodriver	INFO	Listening on 127.0.0.1:61982
+1674596802836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilegbJrSa"
+1674596805783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674596805815	Marionette	INFO	Listening on port 61990
+Read port: 61990
+Read port: 61990
+WebDriver BiDi listening on ws://127.0.0.1:61983
+1674596810473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\guild\\AppData\\Local\\Temp\\rust_mozprofilegbJrSa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61983/devtools/browser/1edbcf55-8ca8-48d5-beed-04e5c6951ade
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.live.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674596884889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674596911966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674596915247	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674596922456	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674596954011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1674596957024	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674596957400	Marionette	INFO	Stopped listening on port 61990
+Dynamically enable window occlusion 1
