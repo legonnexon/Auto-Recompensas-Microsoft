@@ -8,7 +8,15 @@ Eu fiz algumas automatizações de pesquisas aleatórias com palavras de verdade
 2 -     
 
     pip install selenium 
-    
+
+3 - 
+```
+pip install requests
+```
+4 -
+```
+pip install webdriver-manager
+```
 ### E só isso 
 
 # Rodando
