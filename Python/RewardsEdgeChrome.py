@@ -15,7 +15,7 @@ def wait_for(sec=2):
 # Lista das palavras
 randomlists_url = "https://www.randomlists.com/data/words.json"
 response = requests.get(randomlists_url)
-words_list = random.sample(json.loads(response.text)['data'], 60)
+words_list = random.sample(json.loads(response.text)['data'], 10)
 print('{0} words selected from {1}'.format(len(words_list), randomlists_url))
 
 #Prevenir Bugs
@@ -26,29 +26,29 @@ options.add_experimental_option('excludeSwitches', ['enable-logging'])
 service = ChromeService(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
-wait_for(7)
+wait_for(2)
 
 try:
     driver.get("https://login.live.com/")
-    wait_for(4)
+    wait_for(2)
     elem = driver.find_element(By.NAME, 'loginfmt')
     elem.clear()
-    elem.send_keys("seu-email-aqui") # Coloque seu email ai
+    elem.send_keys("seuemail@email.com") # Coloque seu email ai
     elem.send_keys(Keys.RETURN)
-    wait_for(3)
+    wait_for(1)
     elem1 = driver.find_element(By.NAME, 'passwd')
     elem1.clear()
-    elem1.send_keys("sua-senha-aqui") # Aqui a sua senha
+    elem1.send_keys("senha") # Aqui a sua senha
     elem1.send_keys(Keys.ENTER)
-    wait_for(3)
+    wait_for(1)
     elem2 = driver.find_element(By.ID, "idSIButton9")
     elem2.send_keys(Keys.ENTER)
-    wait_for(3)
+    wait_for(1)
     elem2 = driver.get("http://www.bing.com/search?q=Arroz")
-    wait_for(3)
+    wait_for(1)
     elem3 = driver.find_element(By.ID, 'mHamburger')
     elem3.send_keys(Keys.ENTER)
-    wait_for(3)
+    wait_for(1)
     elem3 = driver.find_element(By.ID, 'hb_s')
     elem3.click()
     wait_for(2)
@@ -64,7 +64,12 @@ url_base = 'http://www.bing.com/search?q='
 for num, word in enumerate(words_list):
     print('{0}. URL : {1}'.format(str(num + 1), url_base + word))
     try:
-        driver.get(url_base + word)
+        elem = driver.find_element(By.NAME, 'q')
+        elem.send_keys(word)
+        elem.send_keys(Keys.ENTER)
+        wait_for(1)
+        driver.get('http://www.bing.com/')
+
         print('\t' + driver.find_element(By.NAME, 'q').text)
 
     except Exception as e1:
@@ -86,32 +91,32 @@ driver = webdriver.Chrome(service=service, options=options)
 
 driver.get('https://www.google.com')
 
-wait_for(7)
+wait_for(2)
 
 try:
     driver.get("https://login.live.com/")
-    wait_for(4)
+    wait_for(2)
     elem = driver.find_element(By.NAME, 'loginfmt')
     elem.clear()
-    elem.send_keys("seu-email-aqui") # Coloque seu email ai
+    elem.send_keys("seu_email@email.com") # Coloque seu email ai
     elem.send_keys(Keys.RETURN)
-    wait_for(4)
+    wait_for(1)
     elem1 = driver.find_element(By.NAME, 'passwd')
     elem1.clear()
-    elem1.send_keys("sua-senha-aqui") # Aqui a sua senha
+    elem1.send_keys("senha") # Aqui a sua senha
     elem1.send_keys(Keys.ENTER)
-    wait_for(3)
+    wait_for(1)
     elem2 = driver.find_element(By.ID, "idSIButton9")
     elem2.send_keys(Keys.ENTER)
-    wait_for(3)
+    wait_for(1)
     elem2 = driver.get("http://www.bing.com/search?q=Arroz")
-    wait_for(3)
+    wait_for(1)
     elem3 = driver.find_element(By.ID, 'mHamburger')
     elem3.send_keys(Keys.ENTER)
-    wait_for(3)
+    wait_for(1)
     elem3 = driver.find_element(By.ID, 'hb_s')
     elem3.click()
-    wait_for(3)
+    wait_for(1)
  
 except Exception as e:
     print(e)
